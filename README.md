@@ -29,11 +29,15 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🧩 Frontend & App Frameworks
+### 🧩 Frontend Frameworks & Mobile Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
+
 
 ### 🌐 Web Technologies
 <p>
@@ -55,11 +59,18 @@
 
 ## ✨ Notable Projects
 
-- 🎯 [Job Fraud Detection App](#)  
+-🤖 [Smart Fall Detection](https://github.com/Divyakorukond/smart_fall_detection.git)  
+  A machine learning-based fall detection system using OpenCV and real-time camera input to alert in emergency situations.
+- 🧠 [Human Stress Level Detection](https://github.com/Divyakorukond/human_stress_level_detection-.git)  
+  An AI model that classifies human stress levels based on physiological data using supervised learning techniques.
+- 🎯 [Job Fraud Detection App](https://job-posting-authenticity-analysis.onrender.com/)  
+  Detects fraudulent job postings using ML models with Flask-based web interface. 
 - 🧠 [Human Stress Level Detection](#)  
-- 🏠 [Interior Works Website](#)  
+- 🏠 [Interior Works Website](https://divyakorukond.github.io/InteriorWorks/#Home)
+  A responsive company showcase site built with HTML, CSS, and JavaScript.  
 - 🎮 [Brick Breaker Game + Web Tools Suite](#)  
 - 🌐 [Language Translation App](https://divyakorukond.github.io/Language-Translation/)
+  A web app that translates between selected languages with an interactive UI.
 
 ---
 
@@ -85,15 +96,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Divyakorukond&theme=dracula">
 </p>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Divyakorukond&theme=dark">
-</p>
-
----
 
 ## 📊 Visitor Count
 
